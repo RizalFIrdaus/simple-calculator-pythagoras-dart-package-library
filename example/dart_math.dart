@@ -1,4 +1,4 @@
-import 'package:dart_packages/calculator.dart';
+import 'package:math_pythagoras_calculator_simple_library_dart/dart_packages.dart';
 
 void main() {
   var result = Math.calculator(-8, '*', -3);

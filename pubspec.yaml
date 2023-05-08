@@ -1,6 +1,6 @@
-name: dart_packages
+name: math_pythagoras_calculator_simple_library_dart
 description: Math simple calculator and pythagoras.
-version: 1.0.0
+version: 1.1.0
 repository: https://github.com/RizalFIrdaus/simple-calculator-pythagoras-dart-package-library
 
 environment:
