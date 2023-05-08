@@ -24,6 +24,14 @@ var result = Math.calculator(-8, '*', -3);
 print('Hasil : $result');
 ```
 
+Features : Pythagoras.
+There are 3 parameters, based is of type num, height is of type num, and slant is of type num. One of these parameters must be null, meaning that 2 parameters must be filled:
+
+```dart
+var pytagoras = Math.pythagoras(based: 5, slant: 13);
+print('Hasil Pyhtagoras: $pytagoras');
+```
+
 ## Additional information
 
 Disclaimer : This project for self skill improvment.
